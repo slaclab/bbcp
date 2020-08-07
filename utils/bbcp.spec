@@ -48,7 +48,7 @@ rm -rf %{buildroot}
 
 
 %files
-%{instdir}/bin
+%{instdir}/bin/bbcp
 
 # ================= ChangeLog =========================
 
